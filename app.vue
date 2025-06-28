@@ -1,6 +1,16 @@
+<script setup>
+useSeoMeta({
+  title: "maurice Mumbere",
+});
+</script>
+
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <h1 class="text-red-500">hello my name is maurice Mumbere</h1>
+    <Header />
+    <HeroSection />
+    <ProjectsSection />
+    <SkillsSection />
+    <ContactSection />
+    <Footer />
   </div>
 </template>
