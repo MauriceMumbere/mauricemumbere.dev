@@ -8,8 +8,9 @@ useSeoMeta({
   <div>
     <Header />
     <HeroSection />
-    <ProjectsSection />
+    <AboutSection />
     <SkillsSection />
+    <ProjectsSection />
     <ContactSection />
     <Footer />
   </div>
