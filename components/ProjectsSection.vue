@@ -46,7 +46,7 @@
                 />
                 <a
                   class="text-green-400 border border-green-400 py-1 px-3 rounded-2xl text-sm"
-                  href="space-tourism-m.netlify.app"
+                  href="https://space-tourism-m.netlify.app"
                   target="_blank"
                 >
                   Voir le site
@@ -112,7 +112,7 @@
                 />
                 <a
                   class="text-green-400 border border-green-400 py-1 px-3 rounded-2xl text-sm"
-                  href="insure-landing-page-m.netlify.app"
+                  href="https://insure-landing-page-m.netlify.app"
                   target="_blank"
                 >
                   Voir le site
@@ -177,7 +177,7 @@
                 />
                 <a
                   class="text-green-400 border border-green-400 py-1 px-3 rounded-2xl text-sm"
-                  href="/loopstudios-landing-page-m.netlify.app"
+                  href="https://loopstudios-landing-page-m.netlify.app"
                   target="_blank"
                 >
                   Voir le site
