@@ -1,21 +1,24 @@
 <template>
   <header
-    class="navbar bg-base-100 shadow-sm px-4 md:px-[150px] sticky top-0 left-0 z-40"
+    class="navbar bg-base-100 shadow-sm px-4 lg:px-[200px] sticky top-0 left-0 z-40"
   >
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl">/maurice Mumbere ./</a>
+      <a href="#" class="btn btn-ghost text-xl">/maurice Mumbere ./</a>
     </div>
     <!-- Desktop Menu -->
     <div class="flex-none hidden md:block">
       <ul class="menu menu-horizontal px-1">
         <li>
-          <nuxtLink to="#">Work</nuxtLink>
+          <nuxtLink to="#about">À propos</nuxtLink>
         </li>
         <li>
-          <nuxtLink to="#">Skills</nuxtLink>
+          <nuxtLink to="#skills">Compétences</nuxtLink>
         </li>
         <li>
-          <nuxtLink to="#">Contact</nuxtLink>
+          <nuxtLink to="#projects">Projets</nuxtLink>
+        </li>
+        <li>
+          <nuxtLink to="#contact">Contact</nuxtLink>
         </li>
       </ul>
     </div>
@@ -46,13 +49,18 @@
       >
         <ul class="menu menu-vertical px-4 py-2">
           <li>
-            <nuxtLink to="#" @click="isOpen = false">Work</nuxtLink>
+            <nuxtLink to="#about" @click="isOpen = false">À propos</nuxtLink>
           </li>
           <li>
-            <nuxtLink to="#" @click="isOpen = false">Skills</nuxtLink>
+            <nuxtLink to="#skills" @click="isOpen = false"
+              >Compétences</nuxtLink
+            >
           </li>
           <li>
-            <nuxtLink to="#" @click="isOpen = false">Contact</nuxtLink>
+            <nuxtLink to="#projects" @click="isOpen = false">Projets</nuxtLink>
+          </li>
+          <li>
+            <nuxtLink to="#contact" @click="isOpen = false">Contact</nuxtLink>
           </li>
         </ul>
       </div>
