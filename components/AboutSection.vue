@@ -25,15 +25,16 @@
         </div>
 
         <p class="text-base leading-relaxed text-gray-600">
-          Développeur full-stack passionné par la création d'applications web
-          modernes. Formé à la Wild Code School, je maîtrise aussi bien le
-          backend que le frontend.
+          Développeur web et mobile passionné par la création d'applications web
+          modernes. Formé à la Kadea Academy, je maîtrise aussi bien le backend
+          que le frontend.
         </p>
 
         <p class="text-base leading-relaxed text-gray-600">
-          Anciennement préparatrice en pharmacie, j'ai développé une grande
-          rigueur et une attention aux détails que j'applique aujourd'hui dans
-          le développement web.
+          Curieux des dernières innovations et outils du web, je prends plaisir
+          à concrétiser des idées en applications performantes et intuitives.
+          Rigoureux et collaboratif, je cherche toujours à proposer des
+          solutions qui répondent aux besoins réels des utilisateurs.
         </p>
       </div>
     </div>
